@@ -1,64 +1,84 @@
-## Your Name
+## Imogen Kraak
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After years of working on the app management and content design side of the startup industry and feeling inspired by a range of beautifully designed and developed apps, I left my job to pursue software engineering full time. I taught myself Swift and I'm currently completing a 12-week Software Engineering Bootcamp at Makers Academy.
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                       | Tech/tools                  |
+| ---------------------------- | ----------------------------------|-----------------------------|
+| **Eating In**                | A recipe app with meal planning & | Swift, CocoaPods, Firebase. |
+|                              | shopping list functions.          |                             |
+
+
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**DUSK** (2017 - 2019)  
+_Commercial Relations Officer_
 
-- Any experience relevent to software development
+Worked as part of a small team running a leading nightlife app in London. My main responsibilities included account management, content design for both the app & our client campaigns, technical support and user testing.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Bravo Media** (2017)  
+_Motion Graphics Designer_
 
-- Any experience relevent to software development
+Designed 2D & 3D assets to be used in various projects ranging from projections to VR experiences.
+
+**Bright Light** (2016 - 2017)  
+_Media Manager_
+
+Managed all social channels, ran fundraising campaigns & company representative at third sector events.
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Design
 
-#### This Skill
+Studied Digital Film Production at Ravensbourne where I specialised in post-production. Went on to work as a motion graphics designer for an experiential marketing company creating 2D and 3D assets to be used in projects such as projections and VR experiences. At DUSK I created promotional content for both the app & various campaigns for large drink brands.
 
-- Experience
-- Achievements
-- Evidence
+**Design software used:**
+- Cinema 4D
+- After Effects
+- Photoshop
+- Premiere Pro
+- InDesign
+- Invision Studio
+- Sketch
 
-#### Another Skill
+#### Account Management/ App Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I developed weekly & monthly reports for clients using analytics from the backend & Mixpanel, set up all accounts to be advertised in the app, and developed pricing plans for venues. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Tools used:**
+- Notion
+- Excel
+- Jira
+- Zendesk
+- Mixpanel
+- MailChimp
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (2020)
+
+A 12-week intensive software engineering bootcamp.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Ravensbourne University (2013 - 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Digital Film Production
+- Specialised in Post Production after a love affair with After Effects
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+## If I'm not coding, I'm probably..
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Doing yoga
+- Designing stuff (taking some photos or animating)
+- Playing videogames
+- Playing tennis
+- Reading poetry
