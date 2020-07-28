@@ -7,12 +7,12 @@ After years of working on the app management and content design side of the star
 
 | Name                         | Description                                               | Tech/tools                  |
 | ---------------------------- | ----------------------------------------------------------|-----------------------------|
-| **Eating In**                | A recipe app with meal planning & shopping list functions.| Swift, CocoaPods, Firebase. |
+| **[Eating In](https://github.com/imogen-k/Eating-In)**                | A recipe app with meal planning & shopping list functions.| Swift, CocoaPods, Firebase. |
 
 
 
 
-## Experience
+## Experience 
 
 **DUSK** (2017 - 2019)  
 _Commercial Relations Officer_
