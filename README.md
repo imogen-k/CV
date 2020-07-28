@@ -5,10 +5,10 @@ After years of working on the app management and content design side of the star
 
 ## Projects
 
-| Name                         | Description                       | Tech/tools                  |
-| ---------------------------- | ----------------------------------|-----------------------------|
-| **Eating In**                | A recipe app with meal planning & | Swift, CocoaPods, Firebase. |
-|                              | shopping list functions.          |                             |
+| Name                         | Description                                               | Tech/tools                  |
+| ---------------------------- | ----------------------------------------------------------|-----------------------------|
+| **Eating In**                | A recipe app with meal planning & shopping list functions.| Swift, CocoaPods, Firebase. |
+
 
 
 
