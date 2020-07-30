@@ -1,6 +1,6 @@
 ## Imogen Kraak
 
-After years of working on the app management and content design side of the startup industry and feeling inspired by a range of beautifully designed and developed apps, I left my job to pursue software engineering full time. I taught myself Swift and I'm currently completing a 12-week Software Engineering Bootcamp at Makers Academy.
+After years of working on the app management and design side of the startup industry and feeling inspired by a range of beautifully designed and developed apps, I left my job to pursue software engineering full time. I taught myself Swift and I'm currently completing a 12-week Software Engineering Bootcamp at Makers Academy.
 
 
 ## Projects
@@ -72,13 +72,13 @@ A 12-week intensive software engineering bootcamp.
 #### Ravensbourne University (2013 - 2016)
 
 - BA Digital Film Production
-- Specialised in Post Production after a love affair with After Effects
+- Specialised in Post Production
 
 
 ## If I'm not coding, I'm probably..
 
 - Doing yoga
-- Designing stuff (taking some photos or animating)
+- Designing stuff (taking photos or animating)
 - Playing videogames
 - Playing tennis
 - Reading poetry
