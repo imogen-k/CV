@@ -8,6 +8,8 @@ After years of working on the app management and design side of the startup indu
 | Name                         | Description                                               | Tech/tools                  |
 | ---------------------------- | ----------------------------------------------------------|-----------------------------|
 | **[Eating In](https://github.com/imogen-k/Eating-In)**                | A recipe app with meal planning & shopping list functions.| Swift, CocoaPods, Firebase. |
+| **[Railsbook](https://github.com/imogen-k/railsbook)**                | A facebook clone | Ruby on Rails, Bootstrap, PostgreSQL, AWS. |
+| **[Banditbnb](https://github.com/imogen-k/Banditbnb)**                | An Airbnb clone  | Node, Express, MongoDB, HTML & CSS. |
 
 
 
@@ -45,7 +47,7 @@ Studied Digital Film Production at Ravensbourne where I specialised in post-prod
 - Invision Studio
 - Sketch
 
-#### Account Management/ App Management
+#### Account Management/ Product Management
 
 I developed weekly & monthly reports for clients using analytics from the backend & Mixpanel, set up all accounts to be advertised in the app, and developed pricing plans for venues. 
 
@@ -78,7 +80,6 @@ A 12-week intensive software engineering bootcamp.
 ## If I'm not coding, I'm probably..
 
 - Doing yoga
-- Designing stuff (taking photos or animating)
+- Designing stuff 
 - Playing videogames
-- Playing tennis
-- Reading poetry
+- Learning guitar
