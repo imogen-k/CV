@@ -66,10 +66,19 @@ I developed weekly & monthly reports for clients using analytics from the backen
 
 A 12-week intensive software engineering bootcamp.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Skills developed during this time:**
+
+* OOP, TDD, MVC, DDD
+* Agile/XP
+* Ruby, JavaScript
+* RSpec, Jasmine, Capybara
+* Sinatra
+* Rails
+* Node
+* Bootstrap
+* AWS
+* PostgreSQL, MongoDB
+
 
 #### Ravensbourne University (2013 - 2016)
 
@@ -80,6 +89,6 @@ A 12-week intensive software engineering bootcamp.
 ## If I'm not coding, I'm probably..
 
 - Doing yoga
-- Designing stuff 
+- Designing something 
 - Playing videogames
 - Learning guitar
