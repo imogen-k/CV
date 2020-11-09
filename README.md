@@ -14,7 +14,7 @@ I’m inspired by emerging technologies, and after understanding them from a des
 | Name                         | Description                                               | Tech/tools                  |
 | ---------------------------- | ----------------------------------------------------------|-----------------------------|
 | **[Turtle Dash](https://github.com/imogen-k/turtle-dash)**            | An addictive 2D game | PhaserJS & Node|
-| **[Eating In](https://github.com/imogen-k/Eating-In)**                | A recipe app with meal planning & shopping list functions | Swift, CocoaPods, Firebase |
+| **[Eating In](https://github.com/imogen-k/Eating-In)**                | A recipe app with shopping list function | Swift, CocoaPods, Firebase |
 | **[Railsbook](https://github.com/imogen-k/railsbook)**                | A facebook clone | Ruby on Rails, Bootstrap, PostgreSQL, AWS |
 | **[Banditbnb](https://github.com/imogen-k/Banditbnb)**                | An Airbnb clone  | Node, Express, MongoDB, HTML & CSS |
 
