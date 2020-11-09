@@ -26,12 +26,25 @@ I’m inspired by emerging technologies, and after understanding them from a des
 **DUSK** (2017 - 2019)  
 _Commercial Relations Officer_
 
-Worked as part of a small team running a leading nightlife app in London. My main responsibilities included account management, content design for both the app & our client campaigns, technical support and user testing.
+DUSK is one of the UK’s fastest growing nightlife apps with over 500,000 users. Formerly known as Drinki.
+
+Main responsibilities:
+* Developed in depth weekly, monthly and quarterly analytic reports for partner venues and brands, pulling statistics from Mixpanel and our back-end platform.
+* Managed a group of freelancers to produce and edit over 700 in-venue videos to be displayed on the platform for our product rebrand.
+* Designed content for drink brand campaigns, such as Guinness, Corona and Brewdog.
+* Product management, taking responsibility for all content uploaded to the app such as copy and design.
+* Lead our national expansion in Manchester.
+* Tech support for venues and customers.
 
 **Bravo Media** (2017)  
 _Motion Graphics Designer_
 
-Designed 2D & 3D assets to be used in various projects ranging from projections to VR experiences.
+Experiential marketing company creating unique experiences using technology such as Projection Mapping, VR, Holograms and AR.
+
+Responsibilities:
+* Designing 3D assets for VR projects
+* 2D animations to be projected at client events
+* Technical set-up of equipment at events
 
 **Bright Light** (2016 - 2017)  
 _Media Manager_
